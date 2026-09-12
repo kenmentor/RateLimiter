@@ -11,7 +11,8 @@
     "start": "tsx src/app.ts"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "ioredis": "^6.0.0"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
